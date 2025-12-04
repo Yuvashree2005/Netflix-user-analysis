@@ -1,0 +1,501 @@
+user_id,title,genre,device,country,watch_date,start_time,end_time,duration_minutes,rating
+U001,Peaky Blinders,Drama,Smart TV,UK,2025-08-12,21:38:00,23:17:00,99,4
+U002,Wednesday,Adventure,Tablet,Australia,2025-09-21,15:09:00,17:59:00,170,5
+U003,Bridgerton,Comedy,Smart TV,Germany,2025-09-24,11:14:00,12:08:00,54,3
+U004,Money Heist,Romance,Mobile,UK,2025-09-05,15:28:00,18:00:00,152,4
+U005,The Office,Comedy,Mobile,USA,2025-08-24,12:45:00,13:41:00,56,5
+U006,Vikings,Thriller,Tablet,Canada,2025-10-04,09:21:00,10:40:00,79,1
+U007,Vikings,Fantasy,Tablet,India,2025-09-30,17:30:00,20:08:00,158,4
+U008,Black Mirror,Adventure,Mobile,USA,2025-09-12,16:19:00,17:02:00,43,1
+U009,The Crown,Adventure,Laptop,USA,2025-10-03,16:29:00,18:45:00,136,4
+U010,Wednesday,Thriller,Mobile,Canada,2025-10-24,16:45:00,19:20:00,155,5
+U011,Friends,Sci-Fi,Smart TV,UK,2025-10-29,22:07:00,23:38:00,91,1
+U012,Sex Education,Comedy,Laptop,India,2025-09-18,11:50:00,14:17:00,147,3
+U013,Wednesday,Mystery,Laptop,Germany,2025-08-10,08:04:00,11:04:00,180,4
+U014,Bridgerton,Romance,Laptop,Germany,2025-10-22,08:12:00,10:31:00,139,4
+U015,Lucifer,Mystery,Mobile,USA,2025-09-09,12:10:00,14:20:00,130,5
+U016,Friends,Action,Smart TV,Canada,2025-09-25,17:13:00,18:07:00,54,4
+U017,The Office,Horror,Laptop,India,2025-10-24,10:56:00,12:35:00,99,3
+U018,Lucifer,Thriller,Tablet,Australia,2025-10-30,09:35:00,10:37:00,62,4
+U019,Stranger Things,Romance,Smart TV,Canada,2025-08-20,16:08:00,16:51:00,43,3
+U020,Lucifer,Action,Tablet,Germany,2025-09-11,22:51:00,01:00:00,129,4
+U021,The Witcher,Fantasy,Mobile,UK,2025-08-22,16:23:00,17:26:00,63,5
+U022,Narcos,Adventure,Smart TV,Australia,2025-09-18,10:54:00,13:40:00,166,4
+U023,Queen's Gambit,Thriller,Laptop,Australia,2025-09-28,13:02:00,14:31:00,89,3
+U024,Elite,Adventure,Laptop,India,2025-08-13,10:00:00,11:08:00,68,4
+U025,Bridgerton,Fantasy,Tablet,Canada,2025-09-17,21:27:00,22:39:00,72,1
+U026,Black Mirror,Adventure,Tablet,India,2025-08-25,23:56:00,02:16:00,140,5
+U027,Wednesday,Mystery,Mobile,India,2025-10-20,09:11:00,10:33:00,82,2
+U028,The Witcher,Action,Laptop,UK,2025-10-21,20:04:00,20:24:00,20,1
+U029,Queen's Gambit,Romance,Laptop,Canada,2025-08-29,21:56:00,23:38:00,102,4
+U030,Black Mirror,Sci-Fi,Laptop,USA,2025-10-16,11:31:00,14:01:00,150,4
+U031,Narcos,Mystery,Mobile,India,2025-10-15,21:51:00,00:37:00,166,5
+U032,Vikings,Drama,Tablet,Canada,2025-10-17,23:52:00,01:32:00,100,4
+U033,Narcos,Romance,Smart TV,Australia,2025-10-07,17:48:00,19:45:00,117,1
+U034,The Office,Action,Tablet,Canada,2025-10-08,10:27:00,11:07:00,40,1
+U035,Peaky Blinders,Fantasy,Laptop,UK,2025-10-04,18:44:00,20:45:00,121,2
+U036,Peaky Blinders,Fantasy,Mobile,Germany,2025-08-18,19:25:00,20:55:00,90,4
+U037,The Crown,Drama,Laptop,Germany,2025-10-03,12:46:00,13:24:00,38,1
+U038,Lucifer,Horror,Laptop,Australia,2025-08-22,23:01:00,01:18:00,137,4
+U039,Dark,Comedy,Tablet,Australia,2025-09-20,17:59:00,18:22:00,23,2
+U040,Peaky Blinders,Thriller,Laptop,UK,2025-10-08,08:12:00,11:06:00,174,1
+U041,Friends,Drama,Smart TV,Germany,2025-09-19,19:35:00,22:10:00,155,3
+U042,Wednesday,Action,Laptop,UK,2025-09-20,21:09:00,22:07:00,58,1
+U043,Sex Education,Mystery,Smart TV,Canada,2025-09-03,14:22:00,16:46:00,144,3
+U044,Vikings,Comedy,Tablet,Australia,2025-08-17,09:39:00,11:40:00,121,5
+U045,The Crown,Sci-Fi,Laptop,Germany,2025-08-13,11:32:00,13:36:00,124,2
+U046,The Crown,Thriller,Laptop,India,2025-10-02,12:24:00,15:11:00,167,3
+U047,Lucifer,Horror,Tablet,UK,2025-10-14,18:43:00,19:38:00,55,1
+U048,Money Heist,Fantasy,Smart TV,Canada,2025-08-17,20:03:00,22:35:00,152,1
+U049,Squid Game,Sci-Fi,Laptop,UK,2025-09-17,18:19:00,19:01:00,42,4
+U050,Wednesday,Action,Mobile,Canada,2025-10-23,23:43:00,00:19:00,36,5
+U051,The Witcher,Drama,Tablet,UK,2025-10-23,15:39:00,16:13:00,34,2
+U052,Stranger Things,Horror,Smart TV,Germany,2025-09-30,19:16:00,21:24:00,128,3
+U053,Breaking Bad,Adventure,Laptop,Germany,2025-09-10,22:08:00,00:12:00,124,4
+U054,Stranger Things,Action,Tablet,Australia,2025-10-12,19:12:00,21:41:00,149,2
+U055,Queen's Gambit,Horror,Tablet,Australia,2025-08-11,21:19:00,22:53:00,94,5
+U056,You,Fantasy,Mobile,Germany,2025-10-22,16:20:00,18:16:00,116,4
+U057,Friends,Fantasy,Mobile,Australia,2025-10-02,21:47:00,22:46:00,59,5
+U058,Wednesday,Romance,Mobile,USA,2025-08-01,19:46:00,21:33:00,107,1
+U059,Sex Education,Comedy,Smart TV,Australia,2025-10-20,21:04:00,22:34:00,90,4
+U060,Peaky Blinders,Romance,Smart TV,Australia,2025-10-09,21:11:00,23:55:00,164,5
+U061,The Office,Horror,Tablet,Australia,2025-08-03,21:50:00,22:35:00,45,3
+U062,The Witcher,Romance,Mobile,Germany,2025-10-10,20:37:00,23:19:00,162,5
+U063,Dark,Sci-Fi,Mobile,Germany,2025-09-07,18:21:00,20:15:00,114,2
+U064,Vikings,Horror,Smart TV,Canada,2025-10-17,13:08:00,14:13:00,65,5
+U065,Peaky Blinders,Drama,Tablet,Australia,2025-08-13,12:25:00,14:46:00,141,2
+U066,The Crown,Thriller,Smart TV,Canada,2025-10-23,08:14:00,09:58:00,104,1
+U067,Vikings,Horror,Smart TV,Canada,2025-10-02,09:24:00,11:03:00,99,2
+U068,Breaking Bad,Horror,Mobile,Australia,2025-08-30,23:04:00,00:20:00,76,3
+U069,Narcos,Comedy,Mobile,Australia,2025-10-10,12:19:00,12:47:00,28,3
+U070,Narcos,Comedy,Mobile,UK,2025-10-14,16:49:00,17:47:00,58,4
+U071,Squid Game,Action,Laptop,India,2025-08-13,10:44:00,13:17:00,153,4
+U072,Narcos,Action,Smart TV,UK,2025-09-08,17:24:00,18:02:00,38,2
+U073,Wednesday,Drama,Smart TV,Australia,2025-10-22,17:58:00,18:58:00,60,5
+U074,Vikings,Adventure,Tablet,India,2025-10-07,12:33:00,14:13:00,100,2
+U075,Elite,Fantasy,Smart TV,Australia,2025-09-08,16:28:00,18:18:00,110,4
+U076,You,Fantasy,Laptop,USA,2025-10-24,09:15:00,10:44:00,89,4
+U077,Sex Education,Mystery,Laptop,Australia,2025-09-25,17:01:00,19:06:00,125,2
+U078,Elite,Horror,Mobile,Australia,2025-10-05,15:20:00,17:53:00,153,4
+U079,Elite,Drama,Tablet,India,2025-10-11,19:33:00,20:19:00,46,4
+U080,Elite,Thriller,Tablet,Germany,2025-10-25,09:30:00,10:07:00,37,1
+U081,Queen's Gambit,Adventure,Smart TV,Australia,2025-09-22,13:41:00,14:54:00,73,3
+U082,The Witcher,Romance,Laptop,Germany,2025-10-11,21:23:00,00:12:00,169,5
+U083,Squid Game,Romance,Laptop,Germany,2025-10-03,21:09:00,00:08:00,179,5
+U084,Black Mirror,Sci-Fi,Laptop,UK,2025-08-03,13:45:00,14:14:00,29,2
+U085,Vikings,Adventure,Tablet,USA,2025-08-13,17:35:00,18:02:00,27,4
+U086,The Crown,Drama,Smart TV,USA,2025-08-17,16:05:00,16:26:00,21,1
+U087,Vikings,Adventure,Smart TV,Germany,2025-10-30,22:22:00,22:50:00,28,5
+U088,Friends,Mystery,Smart TV,Canada,2025-08-22,20:13:00,21:28:00,75,4
+U089,Wednesday,Comedy,Mobile,USA,2025-09-09,23:51:00,01:35:00,104,1
+U090,The Witcher,Adventure,Tablet,Germany,2025-09-30,20:10:00,23:05:00,175,2
+U091,Dark,Mystery,Mobile,Canada,2025-09-10,16:32:00,18:53:00,141,2
+U092,Narcos,Fantasy,Smart TV,Australia,2025-10-12,10:17:00,12:07:00,110,1
+U093,Money Heist,Sci-Fi,Mobile,India,2025-10-02,09:47:00,12:00:00,133,4
+U094,Squid Game,Adventure,Mobile,UK,2025-09-09,18:05:00,20:22:00,137,4
+U095,Wednesday,Comedy,Mobile,USA,2025-08-13,22:41:00,00:31:00,110,2
+U096,Queen's Gambit,Comedy,Mobile,Australia,2025-10-05,21:38:00,00:20:00,162,5
+U097,Wednesday,Adventure,Tablet,USA,2025-08-19,19:39:00,20:41:00,62,2
+U098,The Crown,Mystery,Mobile,Canada,2025-09-23,18:56:00,21:04:00,128,2
+U099,Dark,Horror,Tablet,USA,2025-08-11,17:38:00,20:04:00,146,1
+U100,Stranger Things,Horror,Smart TV,India,2025-10-25,20:11:00,20:44:00,33,4
+U101,Elite,Mystery,Tablet,USA,2025-10-29,18:59:00,20:29:00,90,4
+U102,Bridgerton,Fantasy,Mobile,India,2025-09-16,18:51:00,21:24:00,153,2
+U103,Vikings,Horror,Tablet,USA,2025-10-28,15:27:00,17:07:00,100,4
+U104,You,Thriller,Mobile,USA,2025-10-09,12:45:00,14:15:00,90,3
+U105,Vikings,Romance,Tablet,UK,2025-10-05,15:50:00,18:22:00,152,3
+U106,Peaky Blinders,Drama,Tablet,Canada,2025-10-19,22:40:00,23:47:00,67,1
+U107,Breaking Bad,Adventure,Mobile,UK,2025-08-04,12:51:00,15:41:00,170,4
+U108,Money Heist,Sci-Fi,Smart TV,Germany,2025-10-28,14:30:00,15:36:00,66,3
+U109,Money Heist,Thriller,Laptop,USA,2025-09-23,15:09:00,18:09:00,180,5
+U110,Wednesday,Horror,Smart TV,UK,2025-09-15,20:41:00,23:10:00,149,3
+U111,Breaking Bad,Comedy,Tablet,Australia,2025-10-26,11:27:00,12:19:00,52,3
+U112,Squid Game,Mystery,Tablet,India,2025-10-19,15:20:00,15:46:00,26,4
+U113,The Witcher,Adventure,Laptop,Canada,2025-10-04,16:57:00,18:07:00,70,2
+U114,Stranger Things,Action,Smart TV,Canada,2025-10-13,09:09:00,09:32:00,23,4
+U115,Breaking Bad,Sci-Fi,Mobile,Canada,2025-10-24,23:23:00,01:50:00,147,5
+U116,The Crown,Action,Mobile,Australia,2025-10-06,15:37:00,17:25:00,108,4
+U117,Sex Education,Horror,Tablet,Australia,2025-09-07,08:33:00,10:05:00,92,5
+U118,Breaking Bad,Mystery,Smart TV,USA,2025-08-19,16:41:00,18:31:00,110,2
+U119,The Witcher,Fantasy,Smart TV,India,2025-08-02,16:44:00,17:43:00,59,2
+U120,You,Horror,Mobile,Canada,2025-09-16,11:11:00,13:10:00,119,3
+U121,Bridgerton,Drama,Smart TV,Germany,2025-09-14,12:12:00,13:45:00,93,2
+U122,Queen's Gambit,Fantasy,Mobile,India,2025-08-29,15:35:00,17:04:00,89,5
+U123,The Crown,Horror,Mobile,Canada,2025-09-02,13:32:00,16:32:00,180,5
+U124,You,Drama,Tablet,Canada,2025-10-29,14:32:00,17:32:00,180,5
+U125,Breaking Bad,Drama,Smart TV,Australia,2025-08-29,16:05:00,17:13:00,68,4
+U126,The Office,Thriller,Smart TV,USA,2025-10-21,20:08:00,22:36:00,148,2
+U127,Black Mirror,Mystery,Smart TV,Germany,2025-08-28,22:24:00,23:29:00,65,2
+U128,Squid Game,Thriller,Mobile,Germany,2025-10-24,18:19:00,19:12:00,53,3
+U129,Narcos,Mystery,Laptop,Australia,2025-10-26,12:58:00,15:06:00,128,1
+U130,Black Mirror,Romance,Smart TV,UK,2025-09-29,15:29:00,16:49:00,80,5
+U131,Peaky Blinders,Thriller,Laptop,Canada,2025-10-28,08:40:00,10:18:00,98,1
+U132,You,Comedy,Mobile,Canada,2025-10-28,10:25:00,11:58:00,93,5
+U133,Sex Education,Horror,Laptop,Australia,2025-09-28,16:35:00,17:38:00,63,4
+U134,Bridgerton,Fantasy,Laptop,Canada,2025-08-27,15:27:00,17:53:00,146,3
+U135,Bridgerton,Sci-Fi,Smart TV,UK,2025-10-14,12:27:00,14:18:00,111,2
+U136,Vikings,Horror,Tablet,USA,2025-08-28,13:03:00,15:02:00,119,4
+U137,Friends,Action,Laptop,India,2025-08-24,22:16:00,00:03:00,107,3
+U138,Narcos,Fantasy,Laptop,India,2025-08-08,14:50:00,15:15:00,25,1
+U139,Dark,Thriller,Smart TV,UK,2025-08-09,18:44:00,20:11:00,87,4
+U140,Bridgerton,Action,Tablet,USA,2025-10-30,19:26:00,20:46:00,80,3
+U141,Sex Education,Drama,Smart TV,Canada,2025-08-15,23:35:00,01:37:00,122,4
+U142,Black Mirror,Comedy,Laptop,Germany,2025-08-31,22:34:00,23:02:00,28,3
+U143,The Witcher,Adventure,Tablet,India,2025-08-23,22:08:00,23:31:00,83,3
+U144,Dark,Horror,Tablet,Australia,2025-08-27,19:27:00,22:05:00,158,2
+U145,Money Heist,Comedy,Tablet,Germany,2025-10-07,17:07:00,19:22:00,135,5
+U146,Queen's Gambit,Fantasy,Laptop,USA,2025-08-28,21:31:00,23:00:00,89,2
+U147,Narcos,Fantasy,Smart TV,Canada,2025-08-23,19:45:00,20:36:00,51,1
+U148,Elite,Fantasy,Laptop,UK,2025-08-31,14:16:00,15:43:00,87,4
+U149,Squid Game,Comedy,Laptop,Canada,2025-10-20,13:46:00,15:36:00,110,3
+U150,Bridgerton,Fantasy,Laptop,Canada,2025-08-07,20:26:00,21:09:00,43,3
+U151,Stranger Things,Comedy,Tablet,Australia,2025-10-23,21:24:00,00:08:00,164,4
+U152,You,Sci-Fi,Mobile,India,2025-08-27,22:33:00,01:12:00,159,3
+U153,Elite,Thriller,Tablet,Australia,2025-08-01,09:51:00,11:59:00,128,5
+U154,Sex Education,Adventure,Mobile,USA,2025-08-07,20:27:00,22:21:00,114,4
+U155,The Crown,Fantasy,Mobile,USA,2025-09-30,19:04:00,20:08:00,64,1
+U156,Squid Game,Adventure,Laptop,UK,2025-09-26,16:38:00,17:11:00,33,3
+U157,Narcos,Sci-Fi,Laptop,Canada,2025-09-07,08:04:00,10:03:00,119,4
+U158,Peaky Blinders,Mystery,Mobile,Germany,2025-09-13,12:02:00,13:15:00,73,2
+U159,Bridgerton,Romance,Laptop,Australia,2025-10-16,14:51:00,16:09:00,78,3
+U160,Wednesday,Horror,Laptop,USA,2025-08-24,22:44:00,00:29:00,105,2
+U161,Queen's Gambit,Horror,Mobile,Germany,2025-09-23,11:11:00,13:06:00,115,2
+U162,Squid Game,Action,Tablet,Australia,2025-08-25,12:52:00,14:04:00,72,5
+U163,The Crown,Comedy,Smart TV,UK,2025-09-02,22:23:00,01:19:00,176,1
+U164,Stranger Things,Mystery,Mobile,India,2025-08-08,13:34:00,14:00:00,26,3
+U165,The Witcher,Horror,Smart TV,USA,2025-08-10,11:28:00,13:59:00,151,5
+U166,Money Heist,Fantasy,Smart TV,India,2025-08-25,15:51:00,18:09:00,138,4
+U167,Lucifer,Drama,Smart TV,India,2025-08-29,11:25:00,12:56:00,91,1
+U168,You,Fantasy,Tablet,Germany,2025-08-01,14:18:00,16:34:00,136,5
+U169,The Office,Romance,Tablet,USA,2025-10-28,22:10:00,00:42:00,152,4
+U170,Squid Game,Sci-Fi,Mobile,USA,2025-08-29,13:15:00,13:42:00,27,2
+U171,Queen's Gambit,Comedy,Tablet,USA,2025-10-21,13:55:00,16:50:00,175,5
+U172,The Crown,Horror,Smart TV,Germany,2025-10-05,13:03:00,15:06:00,123,3
+U173,Sex Education,Romance,Tablet,India,2025-09-27,16:52:00,18:37:00,105,4
+U174,Vikings,Adventure,Tablet,Canada,2025-10-06,23:36:00,00:19:00,43,2
+U175,Money Heist,Mystery,Laptop,Australia,2025-10-05,21:41:00,22:39:00,58,1
+U176,Breaking Bad,Mystery,Mobile,UK,2025-09-10,19:49:00,21:42:00,113,1
+U177,You,Mystery,Smart TV,India,2025-09-07,11:39:00,14:26:00,167,3
+U178,Queen's Gambit,Comedy,Laptop,USA,2025-09-13,12:24:00,13:47:00,83,1
+U179,Wednesday,Adventure,Mobile,Australia,2025-09-15,11:53:00,14:17:00,144,2
+U180,Friends,Drama,Mobile,USA,2025-10-21,09:09:00,10:09:00,60,1
+U181,The Office,Action,Mobile,UK,2025-09-03,22:03:00,22:55:00,52,2
+U182,Vikings,Thriller,Tablet,Australia,2025-09-25,20:20:00,21:46:00,86,3
+U183,Wednesday,Action,Laptop,UK,2025-08-25,21:13:00,23:31:00,138,1
+U184,Elite,Mystery,Smart TV,Germany,2025-09-03,13:50:00,15:33:00,103,2
+U185,Narcos,Action,Tablet,India,2025-08-13,13:23:00,14:25:00,62,3
+U186,You,Fantasy,Smart TV,UK,2025-08-02,08:35:00,09:31:00,56,4
+U187,Lucifer,Adventure,Mobile,Canada,2025-09-26,21:30:00,23:25:00,115,4
+U188,You,Sci-Fi,Mobile,Germany,2025-09-24,16:01:00,17:44:00,103,5
+U189,Sex Education,Drama,Smart TV,Australia,2025-10-08,08:09:00,10:00:00,111,5
+U190,Black Mirror,Adventure,Tablet,USA,2025-08-31,12:24:00,14:19:00,115,5
+U191,Wednesday,Adventure,Tablet,Canada,2025-10-24,09:08:00,11:11:00,123,3
+U192,Elite,Thriller,Tablet,Canada,2025-10-25,09:40:00,11:42:00,122,5
+U193,Money Heist,Horror,Mobile,Australia,2025-08-18,15:42:00,17:19:00,97,5
+U194,Wednesday,Drama,Laptop,Australia,2025-08-01,09:24:00,11:01:00,97,3
+U195,Dark,Thriller,Smart TV,USA,2025-09-05,14:18:00,17:16:00,178,3
+U196,Narcos,Horror,Smart TV,UK,2025-10-15,21:20:00,23:54:00,154,2
+U197,Bridgerton,Thriller,Mobile,UK,2025-10-21,23:09:00,23:59:00,50,2
+U198,Black Mirror,Mystery,Mobile,Germany,2025-10-18,12:27:00,14:45:00,138,3
+U199,Lucifer,Fantasy,Laptop,USA,2025-09-28,19:29:00,20:09:00,40,1
+U200,Queen's Gambit,Thriller,Laptop,Canada,2025-08-01,12:50:00,15:04:00,134,5
+U201,Peaky Blinders,Thriller,Tablet,Canada,2025-10-06,13:40:00,15:37:00,117,3
+U202,Narcos,Horror,Laptop,Canada,2025-08-04,17:52:00,19:12:00,80,2
+U203,Queen's Gambit,Horror,Tablet,India,2025-08-02,21:44:00,23:10:00,86,3
+U204,Lucifer,Adventure,Laptop,Germany,2025-09-22,13:21:00,14:26:00,65,4
+U205,Breaking Bad,Adventure,Laptop,USA,2025-10-28,12:07:00,13:11:00,64,1
+U206,Dark,Romance,Mobile,Australia,2025-10-05,20:48:00,21:45:00,57,5
+U207,Elite,Sci-Fi,Mobile,UK,2025-09-05,12:42:00,15:36:00,174,2
+U208,Sex Education,Romance,Laptop,Germany,2025-08-06,17:06:00,18:29:00,83,5
+U209,Elite,Drama,Laptop,Germany,2025-08-27,12:54:00,13:54:00,60,2
+U210,Bridgerton,Horror,Laptop,USA,2025-10-11,15:40:00,16:53:00,73,4
+U211,Money Heist,Mystery,Smart TV,UK,2025-10-02,09:22:00,12:09:00,167,2
+U212,Bridgerton,Drama,Mobile,UK,2025-08-02,10:21:00,13:11:00,170,4
+U213,Elite,Adventure,Mobile,Germany,2025-09-29,18:05:00,19:26:00,81,2
+U214,The Office,Drama,Smart TV,USA,2025-10-04,14:12:00,14:59:00,47,2
+U215,Bridgerton,Drama,Mobile,Australia,2025-08-05,11:50:00,13:28:00,98,5
+U216,Squid Game,Sci-Fi,Mobile,India,2025-09-21,13:22:00,15:31:00,129,1
+U217,Bridgerton,Thriller,Smart TV,USA,2025-08-22,13:58:00,16:32:00,154,2
+U218,Dark,Adventure,Smart TV,Germany,2025-10-10,15:09:00,17:19:00,130,4
+U219,Wednesday,Comedy,Smart TV,India,2025-08-25,22:02:00,00:21:00,139,4
+U220,Squid Game,Horror,Tablet,India,2025-08-04,09:23:00,10:57:00,94,2
+U221,Money Heist,Mystery,Mobile,Canada,2025-10-19,12:14:00,14:48:00,154,4
+U222,Narcos,Thriller,Laptop,India,2025-08-03,11:34:00,12:55:00,81,4
+U223,Elite,Fantasy,Mobile,Canada,2025-10-01,18:02:00,18:57:00,55,2
+U224,The Crown,Fantasy,Tablet,Canada,2025-10-27,19:15:00,21:16:00,121,2
+U225,Lucifer,Drama,Smart TV,India,2025-09-09,12:13:00,13:10:00,57,3
+U226,Squid Game,Action,Laptop,Germany,2025-10-09,17:32:00,20:04:00,152,1
+U227,Peaky Blinders,Mystery,Smart TV,Germany,2025-09-28,18:14:00,19:41:00,87,4
+U228,You,Fantasy,Mobile,UK,2025-09-12,15:31:00,16:12:00,41,5
+U229,Squid Game,Mystery,Smart TV,UK,2025-10-25,17:56:00,18:22:00,26,3
+U230,The Office,Comedy,Mobile,Canada,2025-08-26,16:37:00,19:25:00,168,2
+U231,Peaky Blinders,Fantasy,Tablet,Canada,2025-09-07,18:30:00,18:57:00,27,2
+U232,The Witcher,Romance,Laptop,Canada,2025-09-04,13:54:00,14:41:00,47,1
+U233,The Office,Romance,Mobile,India,2025-09-17,22:47:00,23:44:00,57,1
+U234,Queen's Gambit,Mystery,Mobile,USA,2025-10-22,10:34:00,11:46:00,72,2
+U235,You,Romance,Smart TV,UK,2025-10-25,22:57:00,23:56:00,59,2
+U236,Narcos,Fantasy,Laptop,Germany,2025-09-18,10:45:00,12:53:00,128,2
+U237,Bridgerton,Adventure,Smart TV,UK,2025-08-22,22:13:00,00:34:00,141,2
+U238,Stranger Things,Thriller,Smart TV,Canada,2025-10-11,15:03:00,16:59:00,116,4
+U239,Money Heist,Thriller,Smart TV,Canada,2025-09-10,11:59:00,13:12:00,73,5
+U240,Narcos,Horror,Laptop,UK,2025-08-05,08:44:00,11:23:00,159,4
+U241,Elite,Romance,Tablet,Germany,2025-08-17,18:01:00,20:47:00,166,3
+U242,Squid Game,Sci-Fi,Tablet,Canada,2025-08-14,20:11:00,20:36:00,25,3
+U243,Money Heist,Mystery,Mobile,India,2025-09-11,11:44:00,12:43:00,59,1
+U244,Squid Game,Action,Tablet,Germany,2025-10-12,08:14:00,09:58:00,104,1
+U245,You,Romance,Mobile,Canada,2025-08-03,17:50:00,18:23:00,33,2
+U246,Breaking Bad,Fantasy,Tablet,Germany,2025-08-22,22:12:00,00:02:00,110,3
+U247,Vikings,Mystery,Smart TV,Germany,2025-09-03,12:21:00,13:45:00,84,3
+U248,You,Horror,Mobile,Canada,2025-09-10,14:04:00,16:25:00,141,4
+U249,Sex Education,Fantasy,Smart TV,USA,2025-08-30,20:43:00,21:09:00,26,4
+U250,Black Mirror,Drama,Tablet,India,2025-10-26,09:28:00,10:36:00,68,5
+U251,Friends,Thriller,Laptop,Australia,2025-08-15,11:56:00,14:05:00,129,4
+U252,The Crown,Sci-Fi,Mobile,Australia,2025-09-29,17:17:00,19:58:00,161,4
+U253,Peaky Blinders,Horror,Smart TV,Germany,2025-10-16,12:49:00,14:25:00,96,4
+U254,Vikings,Horror,Laptop,India,2025-10-01,12:13:00,14:48:00,155,4
+U255,Black Mirror,Romance,Smart TV,USA,2025-10-13,14:58:00,15:56:00,58,4
+U256,Sex Education,Comedy,Smart TV,Australia,2025-10-29,09:45:00,11:50:00,125,4
+U257,The Witcher,Action,Laptop,USA,2025-08-22,16:19:00,18:25:00,126,5
+U258,Breaking Bad,Sci-Fi,Tablet,USA,2025-08-06,17:06:00,18:40:00,94,5
+U259,Sex Education,Fantasy,Tablet,Germany,2025-09-12,21:57:00,00:05:00,128,1
+U260,The Crown,Fantasy,Tablet,Germany,2025-09-25,09:14:00,11:51:00,157,3
+U261,The Crown,Romance,Smart TV,Germany,2025-08-20,19:39:00,21:19:00,100,1
+U262,Sex Education,Sci-Fi,Laptop,India,2025-10-13,20:51:00,22:39:00,108,5
+U263,The Office,Drama,Tablet,USA,2025-08-13,15:54:00,17:58:00,124,4
+U264,You,Thriller,Smart TV,UK,2025-08-04,17:55:00,20:28:00,153,4
+U265,Stranger Things,Sci-Fi,Mobile,Germany,2025-08-06,09:46:00,10:38:00,52,1
+U266,Friends,Comedy,Mobile,Canada,2025-08-22,23:04:00,23:36:00,32,5
+U267,Narcos,Thriller,Mobile,Germany,2025-10-04,12:05:00,14:55:00,170,2
+U268,Bridgerton,Action,Smart TV,India,2025-08-13,22:10:00,23:55:00,105,4
+U269,Dark,Thriller,Tablet,Australia,2025-10-16,22:41:00,23:33:00,52,3
+U270,Queen's Gambit,Thriller,Laptop,UK,2025-10-02,23:58:00,02:20:00,142,4
+U271,Sex Education,Action,Laptop,Canada,2025-10-29,15:39:00,18:11:00,152,5
+U272,You,Fantasy,Mobile,India,2025-08-27,09:23:00,09:50:00,27,2
+U273,Dark,Fantasy,Smart TV,UK,2025-08-15,20:14:00,22:14:00,120,5
+U274,Bridgerton,Drama,Smart TV,UK,2025-09-19,11:03:00,13:55:00,172,3
+U275,The Office,Drama,Mobile,USA,2025-10-28,15:35:00,18:24:00,169,1
+U276,The Crown,Action,Tablet,Canada,2025-08-23,16:41:00,19:21:00,160,2
+U277,Dark,Horror,Mobile,India,2025-09-13,18:07:00,19:01:00,54,1
+U278,The Crown,Thriller,Tablet,Germany,2025-08-05,23:40:00,00:33:00,53,1
+U279,The Crown,Comedy,Tablet,USA,2025-08-17,17:16:00,18:51:00,95,3
+U280,Narcos,Romance,Tablet,Australia,2025-10-27,11:11:00,12:53:00,102,2
+U281,Friends,Horror,Smart TV,Germany,2025-10-10,23:45:00,00:23:00,38,2
+U282,Wednesday,Mystery,Tablet,Canada,2025-09-02,19:30:00,20:02:00,32,5
+U283,The Office,Thriller,Tablet,UK,2025-09-04,12:47:00,15:36:00,169,2
+U284,Wednesday,Thriller,Smart TV,Australia,2025-10-20,21:13:00,23:29:00,136,5
+U285,Wednesday,Comedy,Tablet,Germany,2025-10-03,15:24:00,15:55:00,31,1
+U286,Queen's Gambit,Mystery,Smart TV,Germany,2025-09-21,15:20:00,16:05:00,45,2
+U287,Vikings,Mystery,Tablet,USA,2025-09-15,14:29:00,16:09:00,100,3
+U288,The Office,Thriller,Mobile,Germany,2025-10-04,11:24:00,13:43:00,139,5
+U289,Breaking Bad,Action,Laptop,Canada,2025-08-20,10:22:00,10:55:00,33,4
+U290,Sex Education,Drama,Tablet,India,2025-08-07,11:32:00,12:09:00,37,1
+U291,You,Comedy,Mobile,UK,2025-08-13,21:27:00,23:56:00,149,2
+U292,Lucifer,Horror,Smart TV,Australia,2025-10-18,18:23:00,21:01:00,158,2
+U293,Narcos,Thriller,Tablet,UK,2025-10-28,09:40:00,12:22:00,162,1
+U294,Breaking Bad,Romance,Tablet,UK,2025-10-03,12:19:00,13:24:00,65,5
+U295,Money Heist,Comedy,Laptop,Germany,2025-10-01,16:27:00,17:55:00,88,3
+U296,Breaking Bad,Sci-Fi,Tablet,Germany,2025-10-02,18:19:00,19:25:00,66,4
+U297,You,Adventure,Tablet,Canada,2025-09-09,16:56:00,18:00:00,64,5
+U298,Lucifer,Romance,Tablet,Canada,2025-08-30,09:13:00,11:02:00,109,4
+U299,Friends,Adventure,Tablet,Australia,2025-09-30,13:14:00,15:20:00,126,3
+U300,Dark,Thriller,Laptop,Germany,2025-09-30,23:18:00,23:50:00,32,2
+U301,Black Mirror,Thriller,Laptop,Canada,2025-08-15,08:52:00,10:03:00,71,1
+U302,Sex Education,Action,Mobile,Canada,2025-10-01,12:28:00,13:56:00,88,5
+U303,Dark,Sci-Fi,Laptop,India,2025-10-26,09:00:00,09:44:00,44,4
+U304,The Witcher,Drama,Smart TV,UK,2025-08-04,20:39:00,22:21:00,102,5
+U305,Peaky Blinders,Thriller,Laptop,India,2025-10-01,21:50:00,00:27:00,157,1
+U306,Black Mirror,Sci-Fi,Smart TV,Australia,2025-10-15,10:41:00,11:39:00,58,5
+U307,Wednesday,Romance,Smart TV,Canada,2025-10-23,19:01:00,21:43:00,162,4
+U308,The Office,Adventure,Laptop,Australia,2025-10-06,20:56:00,23:18:00,142,4
+U309,Elite,Comedy,Mobile,Germany,2025-08-22,17:22:00,19:18:00,116,2
+U310,You,Comedy,Tablet,Australia,2025-08-01,19:32:00,21:08:00,96,4
+U311,Breaking Bad,Sci-Fi,Mobile,Canada,2025-09-14,15:00:00,15:35:00,35,1
+U312,Elite,Action,Laptop,UK,2025-10-04,09:11:00,10:57:00,106,4
+U313,Sex Education,Drama,Mobile,Australia,2025-09-10,08:14:00,09:38:00,84,1
+U314,Peaky Blinders,Sci-Fi,Laptop,India,2025-09-28,13:47:00,15:50:00,123,1
+U315,The Witcher,Horror,Laptop,Canada,2025-10-17,14:50:00,17:35:00,165,2
+U316,Black Mirror,Mystery,Tablet,Germany,2025-09-21,10:40:00,12:46:00,126,1
+U317,Money Heist,Mystery,Smart TV,USA,2025-10-11,08:45:00,10:02:00,77,3
+U318,The Witcher,Action,Laptop,Canada,2025-10-28,23:59:00,02:43:00,164,1
+U319,Lucifer,Action,Laptop,UK,2025-10-30,16:56:00,19:03:00,127,2
+U320,Elite,Adventure,Mobile,Germany,2025-09-26,12:43:00,14:18:00,95,5
+U321,Squid Game,Thriller,Smart TV,UK,2025-09-18,13:17:00,14:34:00,77,1
+U322,Bridgerton,Fantasy,Mobile,Germany,2025-10-16,10:55:00,12:28:00,93,4
+U323,Peaky Blinders,Thriller,Tablet,Germany,2025-08-05,16:26:00,19:01:00,155,1
+U324,Lucifer,Comedy,Mobile,USA,2025-08-09,10:25:00,11:47:00,82,2
+U325,Sex Education,Drama,Mobile,USA,2025-10-17,14:23:00,15:53:00,90,5
+U326,Lucifer,Fantasy,Tablet,UK,2025-09-03,18:35:00,19:04:00,29,1
+U327,Bridgerton,Sci-Fi,Tablet,Canada,2025-08-03,14:03:00,14:42:00,39,5
+U328,Sex Education,Sci-Fi,Smart TV,UK,2025-10-28,17:45:00,18:09:00,24,2
+U329,Squid Game,Sci-Fi,Smart TV,Canada,2025-09-16,22:05:00,00:57:00,172,1
+U330,Narcos,Thriller,Tablet,Australia,2025-08-20,10:05:00,12:10:00,125,1
+U331,The Witcher,Sci-Fi,Laptop,USA,2025-10-06,18:44:00,20:27:00,103,3
+U332,Breaking Bad,Sci-Fi,Laptop,Canada,2025-09-03,10:55:00,13:13:00,138,4
+U333,Vikings,Comedy,Mobile,UK,2025-10-08,09:05:00,09:33:00,28,4
+U334,Peaky Blinders,Drama,Tablet,Canada,2025-10-13,17:55:00,18:16:00,21,4
+U335,The Crown,Romance,Smart TV,Germany,2025-08-09,23:06:00,23:44:00,38,2
+U336,Narcos,Horror,Laptop,Germany,2025-08-11,13:46:00,15:47:00,121,1
+U337,Vikings,Thriller,Laptop,Canada,2025-10-14,11:51:00,12:41:00,50,5
+U338,Bridgerton,Thriller,Laptop,UK,2025-10-06,21:40:00,00:12:00,152,4
+U339,Queen's Gambit,Action,Smart TV,Australia,2025-10-25,14:35:00,16:16:00,101,5
+U340,Money Heist,Action,Smart TV,Australia,2025-09-30,14:49:00,15:45:00,56,5
+U341,Vikings,Thriller,Smart TV,USA,2025-10-02,18:50:00,20:17:00,87,2
+U342,Lucifer,Drama,Smart TV,India,2025-10-16,20:59:00,22:14:00,75,3
+U343,Squid Game,Thriller,Mobile,USA,2025-08-05,18:14:00,19:10:00,56,1
+U344,Stranger Things,Romance,Smart TV,India,2025-08-16,15:18:00,17:34:00,136,3
+U345,Vikings,Fantasy,Tablet,Canada,2025-10-03,15:23:00,16:33:00,70,5
+U346,Queen's Gambit,Drama,Laptop,USA,2025-09-18,18:03:00,19:41:00,98,1
+U347,Sex Education,Thriller,Tablet,India,2025-10-27,20:01:00,20:53:00,52,3
+U348,Elite,Drama,Laptop,UK,2025-09-24,22:41:00,00:50:00,129,5
+U349,Queen's Gambit,Romance,Mobile,India,2025-09-12,14:31:00,15:14:00,43,5
+U350,Money Heist,Horror,Smart TV,Australia,2025-10-06,08:11:00,11:11:00,180,1
+U351,The Crown,Sci-Fi,Laptop,Australia,2025-08-19,10:54:00,11:27:00,33,5
+U352,The Office,Sci-Fi,Mobile,Germany,2025-10-11,15:02:00,17:43:00,161,3
+U353,Narcos,Drama,Tablet,Germany,2025-10-28,15:04:00,15:29:00,25,5
+U354,Wednesday,Action,Mobile,India,2025-08-18,18:22:00,21:14:00,172,5
+U355,Wednesday,Mystery,Mobile,USA,2025-09-20,18:25:00,21:12:00,167,2
+U356,Lucifer,Comedy,Laptop,India,2025-08-07,12:41:00,15:19:00,158,4
+U357,Stranger Things,Drama,Smart TV,Canada,2025-09-14,13:58:00,16:05:00,127,4
+U358,Breaking Bad,Comedy,Tablet,UK,2025-10-16,17:40:00,19:24:00,104,5
+U359,Breaking Bad,Comedy,Smart TV,USA,2025-08-23,10:16:00,11:09:00,53,4
+U360,Elite,Drama,Laptop,India,2025-09-14,16:53:00,19:23:00,150,1
+U361,Bridgerton,Drama,Smart TV,USA,2025-10-14,12:28:00,15:25:00,177,4
+U362,Breaking Bad,Fantasy,Laptop,UK,2025-09-29,20:04:00,22:20:00,136,5
+U363,The Office,Horror,Smart TV,UK,2025-10-23,10:28:00,10:54:00,26,2
+U364,Friends,Fantasy,Laptop,India,2025-09-13,09:51:00,11:42:00,111,5
+U365,You,Romance,Mobile,USA,2025-09-23,09:42:00,10:58:00,76,4
+U366,Peaky Blinders,Drama,Smart TV,USA,2025-10-09,12:05:00,14:30:00,145,4
+U367,Breaking Bad,Sci-Fi,Smart TV,USA,2025-10-04,19:24:00,21:29:00,125,1
+U368,Narcos,Fantasy,Tablet,Canada,2025-09-12,13:00:00,14:07:00,67,2
+U369,Peaky Blinders,Comedy,Mobile,India,2025-08-14,14:09:00,17:01:00,172,5
+U370,Peaky Blinders,Fantasy,Smart TV,India,2025-10-16,18:56:00,20:50:00,114,3
+U371,Queen's Gambit,Action,Mobile,India,2025-10-14,14:52:00,16:28:00,96,5
+U372,You,Romance,Tablet,Canada,2025-09-07,12:31:00,14:55:00,144,4
+U373,The Crown,Fantasy,Laptop,UK,2025-08-10,15:52:00,17:26:00,94,1
+U374,Elite,Adventure,Laptop,India,2025-09-24,21:37:00,22:07:00,30,2
+U375,Black Mirror,Comedy,Mobile,UK,2025-08-11,14:06:00,15:31:00,85,1
+U376,Peaky Blinders,Mystery,Tablet,India,2025-09-21,19:35:00,21:46:00,131,5
+U377,You,Drama,Mobile,Canada,2025-08-02,10:55:00,13:03:00,128,4
+U378,Wednesday,Mystery,Tablet,India,2025-08-19,23:08:00,01:21:00,133,5
+U379,Wednesday,Mystery,Laptop,India,2025-10-21,08:19:00,10:22:00,123,1
+U380,Wednesday,Action,Laptop,India,2025-10-22,08:32:00,10:46:00,134,4
+U381,Bridgerton,Comedy,Tablet,Australia,2025-10-24,20:10:00,23:06:00,176,2
+U382,Stranger Things,Horror,Smart TV,USA,2025-09-18,19:18:00,21:46:00,148,1
+U383,Squid Game,Thriller,Smart TV,India,2025-08-18,18:38:00,20:09:00,91,4
+U384,You,Mystery,Mobile,India,2025-10-29,12:25:00,13:59:00,94,1
+U385,The Witcher,Mystery,Tablet,UK,2025-08-10,10:14:00,12:35:00,141,1
+U386,Wednesday,Action,Smart TV,UK,2025-08-23,21:46:00,22:29:00,43,4
+U387,Wednesday,Romance,Laptop,Germany,2025-10-19,21:36:00,00:22:00,166,5
+U388,Narcos,Horror,Laptop,USA,2025-09-24,10:47:00,12:22:00,95,5
+U389,Stranger Things,Thriller,Smart TV,Canada,2025-10-01,17:46:00,19:59:00,133,2
+U390,Narcos,Horror,Tablet,Germany,2025-10-16,15:18:00,15:46:00,28,4
+U391,Squid Game,Horror,Mobile,UK,2025-09-25,21:24:00,23:40:00,136,4
+U392,Dark,Action,Smart TV,UK,2025-09-28,15:57:00,16:34:00,37,4
+U393,You,Mystery,Tablet,Germany,2025-08-14,12:51:00,13:32:00,41,2
+U394,Queen's Gambit,Mystery,Mobile,Canada,2025-09-29,10:29:00,11:37:00,68,2
+U395,Elite,Romance,Smart TV,USA,2025-09-28,10:01:00,12:27:00,146,3
+U396,The Witcher,Drama,Smart TV,UK,2025-09-15,08:56:00,11:41:00,165,3
+U397,Vikings,Horror,Smart TV,India,2025-08-20,16:41:00,18:25:00,104,1
+U398,Vikings,Adventure,Mobile,Germany,2025-10-06,17:21:00,20:07:00,166,4
+U399,The Office,Action,Mobile,Australia,2025-09-02,09:19:00,11:25:00,126,2
+U400,Squid Game,Comedy,Laptop,Australia,2025-09-02,08:33:00,10:30:00,117,2
+U401,You,Drama,Tablet,UK,2025-09-17,13:10:00,13:52:00,42,3
+U402,Stranger Things,Thriller,Tablet,India,2025-08-05,20:18:00,21:16:00,58,3
+U403,Squid Game,Mystery,Smart TV,UK,2025-10-27,18:31:00,20:09:00,98,3
+U404,Vikings,Sci-Fi,Laptop,Germany,2025-10-17,15:22:00,15:44:00,22,5
+U405,Queen's Gambit,Action,Laptop,India,2025-09-15,10:18:00,11:07:00,49,4
+U406,The Witcher,Romance,Smart TV,India,2025-10-01,15:35:00,16:30:00,55,4
+U407,Stranger Things,Mystery,Laptop,Canada,2025-09-18,13:34:00,14:25:00,51,1
+U408,Peaky Blinders,Comedy,Mobile,Australia,2025-09-05,23:05:00,02:00:00,175,3
+U409,Dark,Adventure,Mobile,Canada,2025-09-04,08:14:00,10:26:00,132,5
+U410,Peaky Blinders,Adventure,Smart TV,UK,2025-08-01,16:56:00,19:29:00,153,2
+U411,Dark,Drama,Mobile,USA,2025-09-17,13:04:00,15:25:00,141,5
+U412,Black Mirror,Comedy,Tablet,Canada,2025-10-27,14:55:00,15:22:00,27,3
+U413,Sex Education,Action,Mobile,USA,2025-09-23,15:13:00,16:56:00,103,4
+U414,The Crown,Mystery,Laptop,Canada,2025-09-15,15:10:00,15:48:00,38,3
+U415,Bridgerton,Horror,Smart TV,Germany,2025-08-21,08:44:00,09:32:00,48,1
+U416,Peaky Blinders,Adventure,Smart TV,UK,2025-09-18,14:37:00,17:37:00,180,1
+U417,Peaky Blinders,Romance,Mobile,Germany,2025-08-12,17:19:00,18:08:00,49,4
+U418,Wednesday,Fantasy,Laptop,UK,2025-08-23,14:40:00,16:38:00,118,3
+U419,Wednesday,Adventure,Mobile,Canada,2025-08-31,20:56:00,22:51:00,115,1
+U420,Bridgerton,Comedy,Smart TV,India,2025-08-06,11:46:00,13:00:00,74,1
+U421,Elite,Mystery,Laptop,India,2025-09-24,22:50:00,00:27:00,97,3
+U422,Lucifer,Adventure,Mobile,UK,2025-10-09,15:23:00,17:09:00,106,3
+U423,The Office,Thriller,Smart TV,USA,2025-08-13,10:58:00,12:07:00,69,3
+U424,Friends,Romance,Mobile,Australia,2025-10-11,18:38:00,21:26:00,168,5
+U425,Stranger Things,Drama,Tablet,UK,2025-08-10,10:43:00,13:11:00,148,4
+U426,Lucifer,Comedy,Mobile,Canada,2025-08-01,22:55:00,01:54:00,179,5
+U427,Queen's Gambit,Action,Tablet,India,2025-09-19,14:12:00,14:59:00,47,3
+U428,The Office,Comedy,Smart TV,USA,2025-10-21,13:37:00,14:17:00,40,4
+U429,The Crown,Action,Laptop,Germany,2025-09-12,22:36:00,00:07:00,91,4
+U430,Vikings,Adventure,Laptop,Canada,2025-10-10,18:26:00,20:37:00,131,4
+U431,The Crown,Fantasy,Smart TV,Australia,2025-10-22,08:05:00,10:58:00,173,4
+U432,The Witcher,Sci-Fi,Tablet,Germany,2025-10-18,15:12:00,17:16:00,124,2
+U433,Elite,Sci-Fi,Mobile,USA,2025-08-21,11:44:00,12:57:00,73,2
+U434,Wednesday,Action,Laptop,Australia,2025-09-22,09:30:00,11:43:00,133,4
+U435,Vikings,Horror,Tablet,Australia,2025-09-18,15:02:00,15:43:00,41,4
+U436,Bridgerton,Fantasy,Smart TV,Australia,2025-09-02,20:26:00,23:06:00,160,1
+U437,Elite,Thriller,Tablet,Canada,2025-10-09,09:14:00,11:06:00,112,4
+U438,Wednesday,Action,Laptop,UK,2025-09-15,10:58:00,11:55:00,57,4
+U439,Stranger Things,Action,Tablet,Australia,2025-08-10,15:10:00,15:56:00,46,5
+U440,Bridgerton,Fantasy,Smart TV,India,2025-08-23,10:48:00,13:11:00,143,1
+U441,Black Mirror,Action,Tablet,UK,2025-10-17,12:40:00,13:59:00,79,2
+U442,Black Mirror,Drama,Smart TV,Germany,2025-10-11,22:37:00,00:12:00,95,4
+U443,Elite,Action,Tablet,Germany,2025-08-19,08:44:00,11:32:00,168,4
+U444,Narcos,Sci-Fi,Tablet,Australia,2025-09-20,18:19:00,20:41:00,142,5
+U445,You,Mystery,Laptop,USA,2025-08-06,16:33:00,17:36:00,63,3
+U446,Squid Game,Comedy,Laptop,USA,2025-10-17,19:23:00,22:22:00,179,2
+U447,Dark,Sci-Fi,Mobile,Canada,2025-10-30,18:29:00,20:02:00,93,3
+U448,You,Adventure,Smart TV,Canada,2025-10-04,17:44:00,19:45:00,121,2
+U449,Black Mirror,Horror,Smart TV,India,2025-09-15,09:05:00,10:47:00,102,2
+U450,Money Heist,Adventure,Smart TV,India,2025-10-16,09:29:00,12:24:00,175,4
+U451,Queen's Gambit,Horror,Laptop,India,2025-10-21,18:46:00,21:46:00,180,2
+U452,Squid Game,Adventure,Mobile,Australia,2025-08-13,17:49:00,20:17:00,148,1
+U453,Elite,Fantasy,Tablet,Australia,2025-08-03,21:03:00,23:09:00,126,5
+U454,Breaking Bad,Fantasy,Smart TV,Canada,2025-09-10,11:30:00,12:07:00,37,1
+U455,Breaking Bad,Sci-Fi,Smart TV,Australia,2025-10-23,18:49:00,19:18:00,29,5
+U456,Narcos,Thriller,Tablet,Germany,2025-09-24,17:44:00,20:25:00,161,4
+U457,Elite,Romance,Mobile,UK,2025-09-15,16:23:00,18:13:00,110,3
+U458,The Witcher,Action,Tablet,Germany,2025-10-11,19:08:00,20:10:00,62,3
+U459,The Witcher,Sci-Fi,Smart TV,Canada,2025-09-04,09:06:00,11:33:00,147,3
+U460,Narcos,Drama,Smart TV,USA,2025-08-30,14:32:00,16:10:00,98,4
+U461,The Witcher,Horror,Mobile,Germany,2025-10-26,08:01:00,09:53:00,112,3
+U462,Stranger Things,Horror,Tablet,Germany,2025-08-13,16:06:00,18:38:00,152,3
+U463,Wednesday,Drama,Mobile,Canada,2025-10-17,12:02:00,13:34:00,92,3
+U464,Breaking Bad,Action,Laptop,USA,2025-10-14,19:08:00,20:39:00,91,3
+U465,Wednesday,Action,Mobile,India,2025-08-18,23:01:00,01:53:00,172,3
+U466,Squid Game,Action,Mobile,Canada,2025-09-28,14:55:00,15:19:00,24,1
+U467,Queen's Gambit,Thriller,Mobile,Canada,2025-09-11,14:03:00,15:59:00,116,4
+U468,Sex Education,Comedy,Mobile,Canada,2025-08-01,17:31:00,18:25:00,54,4
+U469,Friends,Romance,Laptop,India,2025-08-26,22:03:00,23:14:00,71,5
+U470,Sex Education,Adventure,Mobile,Canada,2025-10-16,10:48:00,11:08:00,20,4
+U471,Sex Education,Horror,Smart TV,UK,2025-10-03,19:41:00,22:36:00,175,2
+U472,The Office,Horror,Smart TV,India,2025-10-16,17:50:00,19:48:00,118,1
+U473,Squid Game,Thriller,Laptop,Australia,2025-08-16,18:13:00,20:47:00,154,5
+U474,Squid Game,Mystery,Laptop,India,2025-08-07,19:51:00,20:34:00,43,1
+U475,The Office,Comedy,Smart TV,India,2025-10-03,23:27:00,01:44:00,137,2
+U476,Breaking Bad,Sci-Fi,Smart TV,India,2025-10-05,16:59:00,18:21:00,82,3
+U477,Bridgerton,Fantasy,Tablet,Germany,2025-08-26,19:16:00,20:04:00,48,3
+U478,Stranger Things,Adventure,Smart TV,India,2025-08-27,22:51:00,01:50:00,179,1
+U479,Queen's Gambit,Drama,Laptop,USA,2025-10-14,09:19:00,11:36:00,137,2
+U480,Stranger Things,Drama,Tablet,India,2025-10-01,17:03:00,18:25:00,82,3
+U481,Wednesday,Sci-Fi,Smart TV,Australia,2025-08-07,19:05:00,20:08:00,63,4
+U482,Sex Education,Action,Smart TV,Canada,2025-10-07,13:31:00,15:36:00,125,1
+U483,You,Sci-Fi,Smart TV,India,2025-08-17,20:22:00,21:47:00,85,5
+U484,Lucifer,Drama,Tablet,Australia,2025-10-04,22:29:00,01:06:00,157,3
+U485,Wednesday,Comedy,Mobile,Canada,2025-08-12,21:38:00,22:00:00,22,4
+U486,Dark,Mystery,Tablet,USA,2025-09-30,15:20:00,16:30:00,70,4
+U487,Elite,Sci-Fi,Smart TV,UK,2025-08-24,19:06:00,20:47:00,101,4
+U488,Wednesday,Action,Smart TV,India,2025-09-14,23:37:00,01:00:00,83,3
+U489,Dark,Fantasy,Smart TV,UK,2025-09-28,21:57:00,00:32:00,155,4
+U490,Squid Game,Fantasy,Mobile,India,2025-08-26,20:20:00,22:08:00,108,5
+U491,Money Heist,Adventure,Laptop,Germany,2025-09-05,14:31:00,15:19:00,48,1
+U492,Sex Education,Fantasy,Mobile,UK,2025-09-27,22:24:00,23:57:00,93,2
+U493,Breaking Bad,Thriller,Laptop,UK,2025-08-13,18:00:00,18:47:00,47,3
+U494,The Crown,Romance,Tablet,UK,2025-08-22,11:54:00,12:36:00,42,4
+U495,Vikings,Action,Mobile,Germany,2025-08-06,14:34:00,15:07:00,33,5
+U496,Squid Game,Drama,Tablet,Australia,2025-09-15,15:48:00,17:26:00,98,1
+U497,Breaking Bad,Adventure,Mobile,UK,2025-09-15,16:31:00,17:43:00,72,5
+U498,Narcos,Thriller,Smart TV,Germany,2025-09-20,10:03:00,11:09:00,66,1
+U499,Black Mirror,Thriller,Laptop,Canada,2025-10-30,14:32:00,15:07:00,35,1
+U500,Queen's Gambit,Romance,Laptop,Canada,2025-08-14,16:13:00,18:32:00,139,2
